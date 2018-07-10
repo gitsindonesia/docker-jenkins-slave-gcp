@@ -1,8 +1,8 @@
 # Jenkins SSH slave Docker image + GCP
 
-[`gitsid/jenkins-slave-gcp`](https://hub.docker.com/r/jenkinsci/ssh-slave/)
+[`gitsid/jenkins-slave-gcp`](https://hub.docker.com/r/gitsid/jenkins-slave-gcp/)
 
-A [Jenkins](https://jenkins-ci.org) slave using SSH to establish connection + Google Cloud Platform.
+A [Jenkins](https://jenkins-ci.org) slave using SSH to establish connection + Google Cloud Platform + Kedge Project.
 
 ## Running
 
